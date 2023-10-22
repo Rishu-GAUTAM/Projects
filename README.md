@@ -5,7 +5,7 @@ Welcome to the Full Stack Web Development project repository. This repository is
 
 ## Table of Contents
 1. [Overview](#overview)
-2. [Assignments](#assignments)
+2. [project](#project)
 3. [Directory Structure](#directory-structure)
 
 
